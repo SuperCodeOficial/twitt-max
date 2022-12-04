@@ -9,8 +9,11 @@ import (
 
 func main() {
 	if bd.ChequeoConnection() == 0 {
+		bd.ChequeoConnection()
 		log.Fatal("Sin conexión a la BD")
 		return
 	}
 	handlers.Manejadores()
+
+	// handlers.Saludo()
 }

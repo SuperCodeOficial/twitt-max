@@ -6,6 +6,12 @@ import (
 	"go.MongoDB.org/mongo-driver/mongo/options"
 	"log"
 )
+
+// Saludo() XXX
+func Saludo() {
+	log.Println("Hola Max")
+}
+
 //MongoCN ES EL OBJETO DE CONEXION A LA BD
 var MongoCN = ConectarBD()
 var clientOptions = options.Client().ApplyURI("mongodb+srv://max:<password>@cluster0.fg2eol9.mongodb.net/?retryWrites=true&w=majority")
@@ -31,6 +37,4 @@ func ChequeoConnection() int {
 		return 0
 	}
 	return 1
-
 }
-

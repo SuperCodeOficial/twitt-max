@@ -1,3 +1,5 @@
+github.com/SuperCodeOficial/twitt-max v0.0.0-20221203065253-536032863a0b h1:JOGJ0lC6YhhBL/e4F4Zha6ttcCjIcCeDCgLn6DQbVz0=
+github.com/SuperCodeOficial/twitt-max v0.0.0-20221203065253-536032863a0b/go.mod h1:1SEMTBwQS8vfl7x81sKOtYurQbPW6EEQDwxQPLq3hCY=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:7qlOGliEKZXTDg6OTjfoBKDXWrumCAMpl/TFQ4/5kLM=
